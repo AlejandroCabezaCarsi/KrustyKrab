@@ -1,0 +1,15 @@
+.logo {
+    background-image: url(../img/KrustyKrabLogo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+    height: 3em;
+    width: 3em;
+}
+
+@font-face {
+    font-family: 'Krabby Patty';
+    src: url(../fonts/Krabby\ Patty.ttf);
+}
+
